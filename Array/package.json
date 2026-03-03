@@ -1,0 +1,15 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "arrar DSA",
+  "license": "ISC",
+  "author": "ShyGuy",
+  "type": "commonjs",
+  "main": "twoSum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
